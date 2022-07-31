@@ -1,0 +1,1 @@
+# TEDU-Yazilima-Baslangic-Patikasi
