@@ -1,0 +1,20 @@
+# TEDU-Yazilima-Baslangic-Patikasi
+#Proje3
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+//Kısaca elemanlar rootumuzdan küçük ise solundan büyük ise sağında giderek karşılaştırıyoruz ve sıralıyoruz.
+
+Rootumuz 7dir 
+ve solunda 5, 
+    5'in solunda ise 1, 
+        1in solunda 0 vardır, 
+        1in sağında 3, 
+              3'ün sağında 4 
+              solunda ise 2 vardır.
+    5'in sağında 6 vardır.
+rootun(7) sağında 8, 8'insağında ise 9 vardır
+
+//YMA
+
+www.patikadev.com
