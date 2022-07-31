@@ -1,1 +1,1 @@
-*www.patikadev.com
+www.patikadev.com
